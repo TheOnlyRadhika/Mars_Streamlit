@@ -20,11 +20,11 @@ This project aims to develop a robust binary classifier capable of determining w
 ```text
 deepfake-audio-detection/
 │
-├── app.py                         # Streamlit web application
-├── test_model.py                  # Command-line testing script
-├── best_cnn_model.keras           # Trained CNN model
-├── deepfake_audio_detection.ipynb # Complete training notebook
-├── pyproject.toml                 # Project dependencies
+├── app.py                         
+├── test_model.py                 
+├── best_cnn_model.keras          
+├── deepfake_audio_detection.ipynb 
+├── pyproject.toml                 
 └── README.md
 ```
 
